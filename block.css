@@ -1,0 +1,28 @@
+
+.header
+{
+    width:100%;
+    background: orange;
+    height:200px;
+}
+.left
+{
+    width:1000px;
+    float:left;
+    background: red;
+    height:150px;
+}
+.right
+{
+    width:1000px;
+    float:right;
+    background: rgb(202, 196, 196);
+    height:400px;
+}
+.footer
+{
+    width:100%;
+    float:right;
+    background: blueviolet;
+    height:150px;
+}
